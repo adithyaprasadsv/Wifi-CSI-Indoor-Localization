@@ -12,8 +12,8 @@ The system transforms raw complex CSI measurements into structured features (Amp
 
 ## 🏫 Academic Context
 
-Course: Artificial Intelligence for Connected Industries
-Institution: Ulm University
+Course: Artificial Intelligence for Connected Industries\
+Institution: Ulm University\
 Authors: Carlos Hincapie, Adithya Prasad
 
 ---
@@ -130,6 +130,6 @@ This project demonstrates:
 
 ## 📎 Report
 
-Full technical report available in the `report/` directory.
+Full technical report available in the `report/` directory.\
 Dataset not included due to academic restrictions.
 ---
