@@ -60,7 +60,7 @@ The task is formulated as a **10-class classification problem**.
 
 | Metric              | Score         |
 | ------------------- | ------------- |
-| Macro F1            | 0.969         |
+| Macro F1 (test data)| 0.975         |
 | Validation Strategy | Group K-Fold  |
 | Objective           | multi:softmax |
 | Estimators          | 600           |
