@@ -128,8 +128,9 @@ This project demonstrates:
 
 ---
 
-## 📎 Report
+## 📎 Report and Kaggle Competition
 
 Full technical report available in the `report/` directory.\
-Dataset not included due to academic restrictions.
+Dataset not included due to academic restrictions.\
+5th Best result on Kaggle test data among 28 teams.
 ---
